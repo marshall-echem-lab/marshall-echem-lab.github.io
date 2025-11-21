@@ -69,6 +69,7 @@ Our research group is remarkably interdisciplinary. Our interests span statistic
 | [Richard Lange](https://www.rit.edu/directory/rdlvcs-richard-lange)  | Post-doc (2021-2023) | Assistant Professor at [Rochester Institute of Technology](https://www.rit.edu/)|
 | Justin Brantley | Post-doc (2021-2023) | Data Scientist, [Texas Rangers](https://www.mlb.com/rangers), yes they did win the super something twice in a row after he joined them |
 | [Ari Benjamin](https://ari-benjamin.com/) | Graduate student (2016-2022) | Postdoc with Tony Zador at [Cold Spring Harbor Laboratory](https://www.cshl.edu/) |
+| [Jordan Lei](https://www.jordanlei.com/) | Undergraduate researcher (2020) | PhD Candidate in Neuroscience, [NYU](https://www.nyu.edu/) |
 | [Titipat Achakulvisut](https://kordinglab.com/people/titipat_achakulvisut/.index.html) | Graduate Student (2014 - 2021) | [Biomedical and Data Lab](https://biodatlab.github.io/), Dept of Biomedical Engineering, Mahidol University, Thailand |
 | [Pedro Ribeiro](https://www.linkedin.com/in/pedro-ribeiro/) | Graduate Student (2018 - 2021) | Programmer Analyst at [Cedars-Sinai](https://www.cedars-sinai.org/) Department of Computational Biomedicine|
 [Nidhi Seethapathi](https://www.seethapathilab.org) | Postdoc (2018 - 2021) | Assistant Professor at [MIT](https://www.mit.edu/) BCS and EECS |
