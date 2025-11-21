@@ -72,15 +72,18 @@ Our research group is remarkably interdisciplinary. Our interests span statistic
 | [Jordan Lei](https://www.jordanlei.com/) | Undergraduate researcher (2020) | PhD Candidate in Neuroscience, [NYU](https://www.nyu.edu/) |
 | [Titipat Achakulvisut](https://kordinglab.com/people/titipat_achakulvisut/.index.html) | Graduate Student (2014 - 2021) | [Biomedical and Data Lab](https://biodatlab.github.io/), Dept of Biomedical Engineering, Mahidol University, Thailand |
 | [Pedro Ribeiro](https://www.linkedin.com/in/pedro-ribeiro/) | Graduate Student (2018 - 2021) | Programmer Analyst at [Cedars-Sinai](https://www.cedars-sinai.org/) Department of Computational Biomedicine|
+| [Xiaowei Jiang](https://www.xiaoweijiang.com/) | Masters Student (2021) | Applied Machine Learning to Social and Cognitive Neuroscience |
 [Nidhi Seethapathi](https://www.seethapathilab.org) | Postdoc (2018 - 2021) | Assistant Professor at [MIT](https://www.mit.edu/) BCS and EECS |
 | [Ben Lansdell](http://benlansdell.github.io) | Postdoc (2017 - 2020) | Data Scientist at [St. Jude Children's Research Hospital](https://www.stjude.org/) |
 | [David Rolnick](http://kordinglab.com/people/david_rolnick/index.html) | Postdoc (2018 - 2020) | [Assistant Professor](http://www.davidrolnick.com), Computer Science, [McGill University](https://www.mcgill.ca/) and Mila |
 | [Shaofei Wang](http://kordinglab.com/people/shaofei_wang/index.html) | Researcher (2018 - 2020) | PhD Student, Computer Science, [ETH Zurich](https://ethz.ch/) |
+| [Rachit Saluja](https://rachit2403.github.io/) | Masters Student (2018) | Electrical Engineering, [Cornell University](https://www.cornell.edu/) |
 | [Ethan Blackwood](http://kordinglab.com/people/ethan_blackwood/index.html) | Rotation Student (2019) | Alex Proekt's Lab at [UPenn](https://www.upenn.edu/) |
 | [Steve Antos](http://kordinglab.com/people/steve_antos/index.html) | Graduate Student (2012 - 2019) | Analytics Developer |
 | [Sofia Triantafillou](https://www.dbmi.pitt.edu/node/54091) | Postdoc (2016 - 2018) | Assistant Professor of Biomedical Informatics at [University of Pittsburgh](https://www.pitt.edu/) |
 | [Gaiqing Kong](https://gaiqingkong.github.io/) | Visiting Scholar (2016 - 2018) | Fyssen Foundation Postdoc at [INSERM](https://www.inserm.fr/), France |
 | [Claire Chambers](http://kordinglab.com/people/claire_chambers/index.html)  | Postdoc (2015 - 2018) | Data Scientist in Ireland |
+| [Roozbeh Farhoodi](https://roozbehfarhoodi.github.io/) | Graduate Student (2015-2019) | PhD, Software Engineer at [Google](https://www.google.com/) |
 | [Josh Glaser](https://jglaser2.github.io) | Graduate Student (2012 - 2018) | Postdoc at [Columbia University](https://www.columbia.edu/) |
 | [Daniel Wood](http://kordinglab.com/people/daniel_wood/index.html) | Postdoc (2014 - 2017) | Data Scientist at SharpestMinds |
 | [Bahram Yoosefizonooz](http://kordinglab.com/people/bahram_yoosefizonooz/index.html) | Visiting (2017) | NavInfo Europe |
