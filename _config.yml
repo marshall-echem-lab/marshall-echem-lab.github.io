@@ -3,7 +3,7 @@
 # # # # # # # # # #
 
 # Basic
-name:               "Marshall Lab"
+name:               "Marshall Echem Lab"
 title:              "Marshall Electrochemical Engineering Lab at the University of Canterbury"
 description:        "The Marshall Lab is an electrochemical engineering research group at the University of Canterbury, Christchurch, New Zealand."
 
@@ -12,7 +12,7 @@ description:        "The Marshall Lab is an electrochemical engineering research
 url:                https://marshall-echem-lab.github.io
 baseurl:            
 #baseurl:            "" #For Root Domain
-permalink:          /:year/:month/:day/:title.html
+#permalink:          /:year/:month/:day/:title.html
 
 # Markdown
 markdown:           kramdown
@@ -62,6 +62,7 @@ defaults:
       type:         "posts"
     values:
       layout:       "post"
+      permalink:    /:year/:month/:day/:title.html
   -
     scope:
       path:         ""
