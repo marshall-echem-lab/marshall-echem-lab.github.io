@@ -13,7 +13,10 @@ Our group develops electrocatalytic materials for redox batteries, fuel cells, a
 
 We characterise these materials using electrochemical techniques including cyclic voltammetry, electrochemical impedance spectroscopy (EIS), and steady-state polarisation curves. Structural analysis is carried out by X-ray diffraction (XRD), X-ray photoelectron spectroscopy (XPS), electron microscopy, gas adsorption, and X-ray absorption spectroscopy (XAS).
 
-<img src="/images/lab/CobaltOxide.jpg" alt="High surface area cobalt oxide film" style="width: 75%;">
+<figure style="text-align: center;">
+  <img src="/images/lab/CobaltOxide.jpg" alt="High surface area cobalt oxide film" style="width: 50%;">
+  <figcaption>High surface area cobalt oxide electrocatalytic film used for alkaline water electrodes</figcaption>
+</figure>
 
 *High surface area cobalt oxide electrocatalytic film used for alkaline water electrodes*
 
