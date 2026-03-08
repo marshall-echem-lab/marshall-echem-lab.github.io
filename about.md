@@ -4,7 +4,7 @@ permalink: /about/
 ---
 
 ### About us
-We are a group of scientists working at the intersection of neuroscience, artificial intelligence, and causality. Our lab has become a leading voice in critically examining how causality works in complex systems where randomization isn't possible—a fundamental challenge in both neuroscience and AI. We're particularly focused on the credit assignment problem: understanding how brains and AI systems determine which components are responsible for success or failure. Our approach views deep learning through the lens of cultural evolution, arguing that "nothing makes sense in deep learning, except in the light of evolution."
+We are a group of scientists and engineers who using electrochemistry in energy and materials applications
 
 ### Research
 Our current work centers on three interconnected themes: **causality in data science**, **artificial intelligence and deep learning**, and **democratizing scientific education**. We're pursuing ambitious projects including [simulating the complete C. elegans nervous system](https://arxiv.org/abs/2308.06578)—an effort to reverse-engineer an entire organism's neural computation. This connects to our broader [NeuroAI agenda](https://www.nature.com/articles/s41467-023-37180-x), where we explore how insights from neuroscience can improve AI and vice versa, guided by our perspective that ["nothing makes sense in deep learning, except in the light of evolution"](https://arxiv.org/abs/2205.10320).
