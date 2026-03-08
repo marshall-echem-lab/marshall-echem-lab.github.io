@@ -1,9 +1,10 @@
 ---
 name: First Surname
 position: gradstudent
-avatar: yihao_li.jpg
 joined: 2024
 ---
+
+<!-- avatar: yihao_li.jpg-->
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
