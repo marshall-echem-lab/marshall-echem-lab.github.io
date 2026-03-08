@@ -13,8 +13,9 @@ Our group develops electrocatalytic materials for redox batteries, fuel cells, a
 
 We characterise these materials using electrochemical techniques including cyclic voltammetry, electrochemical impedance spectroscopy (EIS), and steady-state polarisation curves. Structural analysis is carried out by X-ray diffraction (XRD), X-ray photoelectron spectroscopy (XPS), electron microscopy, gas adsorption, and X-ray absorption spectroscopy (XAS).
 
-![High surface area cobalt oxide film](/images/lab/CobaltOxide.jpg)
-*High surface area cobalt oxide film*
+<img src="/images/lab/CobaltOxide.jpg" alt="High surface area cobalt oxide film" style="width: 75%;">
+
+*High surface area cobalt oxide electrocatalytic film used for alkaline water electrodes*
 
 ---
 
@@ -22,7 +23,7 @@ We characterise these materials using electrochemical techniques including cycli
 
 Electrochemical conversion of CO₂ into useful fuels and chemicals — such as methane, methanol, and formic acid — is an increasingly promising route to closing the carbon cycle. We have studied mass transport effects on this reaction and developed methods to tune its selectivity. Current work focuses on gold-based electrocatalysts for CO₂-to-syngas conversion (CO + H₂), supported by an in-house electrochemical flow cell.
 
-![CO2 reduction cycle](/images/lab/CO2-cycle.png)
+<img src="/images/lab/CO2-cycle.png" alt="CO2 reduction cycle" style="width: 75%;">
 
 ---
 
@@ -30,7 +31,7 @@ Electrochemical conversion of CO₂ into useful fuels and chemicals — such as 
 
 Water electrolysis splits water into hydrogen and oxygen using electricity. When powered by renewables, this produces "green" hydrogen with no direct carbon emissions. We develop new electrocatalysts and engineer catalytic layers and membrane electrode assemblies to improve performance, reduce cost, and increase the durability of water electrolysers. This includes a recently funded project on anion exchange membrane (AEM) water electrolysis.
 
-![Electrolyser schematic](images/lab/Electrolyser.png)
+<img src="/images/lab/Electrolyser.png" alt="Electrolyser schematic" style="width: 75%;">
 
 ---
 
@@ -38,7 +39,7 @@ Water electrolysis splits water into hydrogen and oxygen using electricity. When
 
 Carbon felt is the standard electrode material in redox flow batteries (RFBs), but it can exhibit poor electrochemical activity towards RFB redox couples and lose energy through unwanted gas evolution. We are developing superior electrodes by tailoring the surface chemistry of carbon felt to enhance RFB reaction rates while suppressing side reactions. To isolate and study the underlying redox kinetics, we use single carbon fibre electrodes — avoiding the complexity of mass transfer effects — and fit experimental data to models incorporating intrinsic kinetics and diffusive transport.
 
-![Vanadium redox flow battery schematic](images/lab/VRFB_schematic.png)
+<img src=".images/lab/VRFB_schematic.png" alt="Vanadium redox flow battery schematic" style="width: 75%;">
 
 ---
 
@@ -48,4 +49,4 @@ Metal production is the largest single industrial source of man-made greenhouse 
 
 Alongside this academic programme, Prof. Marshall co-founded [Zethos](https://zethos.tech) (formerly Zincovery), a company commercialising a waste treatment and critical mineral recovery technology developed in our laboratory. Zethos uses selective reduction and electrochemical refining to extract critical minerals — including zinc, copper, nickel, and manganese — from ores and industrial waste streams.
 
-[![Zethos — Critical Mineral Innovation](images/lab/Zethos_logo_tagline.webp)](https://zethos.tech)
+<a href="https://zethos.tech"><img src="images/lab/Zethos_logo_tagline.webp" alt="Zethos — Critical Mineral Innovation" style="width: 75%;"></a>
