@@ -44,9 +44,9 @@ Our research group is full of great people.
         <p class="list-post-title">
           {% if profile.avatar %}
             <a href="{{ site.baseurl }}{{ profile.url }}"><img class="profile-thumbnail" src="{{site.baseurl}}/images/people/{{profile.avatar}}"></a>
-          {% else %}
-            <a href="{{ site.baseurl }}{{ profile.url }}"><img class="profile-thumbnail" src="https://via.placeholder.com/200x200?text=No+Photo"></a>
-          {% endif %}
+{% else %}
+  <a href="{{ site.baseurl }}{{ profile.url }}"><img class="profile-thumbnail" src="{{site.baseurl}}/images/people/default_avatar.svg"></a>
+{% endif %}
           <a class="name" href="{{ site.baseurl }}{{ profile.url }}">{{ profile.name }}</a>
           {% if profile.joined %}<br><small>Joined: {{ profile.joined }}</small>{% endif %}
           {% if profile.now %}<br><small>Now: {{ profile.now }}</small>{% endif %}
@@ -57,3 +57,5 @@ Our research group is full of great people.
 </div>
 <hr>
 {% endfor %}
+
+
