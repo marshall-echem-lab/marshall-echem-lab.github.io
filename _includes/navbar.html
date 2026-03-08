@@ -1,29 +1,36 @@
 <nav class="navbar navbar-default navbar-fixed-top">
-        <div class="container">
-            <!-- Brand and toggle get grouped for better mobile display -->
-            <div class="navbar-header page-scroll">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
-                <a class='navbar-brand page-scroll' href='/'>
-              <span style='font-family:"Open Sans" font-weight:300'>{{ site.name }}</span>
-              </a>
-            </div>
-
-            <!-- Collect the nav links, forms, and other content for toggling -->
-            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-                <ul class="nav navbar-nav navbar-right">
-                    <ul class="nav navbar-nav navbar-right">
-                      {% for nav in site.nav %}
-                      <li><a class='name' href="{{ nav.href }}">{{ nav.name }}</a></li>
-                      {% endfor %}
-                    </ul>
-                </ul>
-            </div>
-            <!-- /.navbar-collapse -->
+    <div class="container">
+        <div class="navbar-header page-scroll">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class='navbar-brand page-scroll' href='/'>
+                <span style='font-family:"Open Sans"; font-weight:300'>{{ site.name }}</span>
+            </a>
         </div>
-        <!-- /.container-fluid -->
+
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav navbar-right">
+                {% for nav in site.nav %}
+                {% if nav.dropdown %}
+                <li class="dropdown">
+                    <a href="{{ nav.href }}" class="dropdown-toggle name" data-toggle="dropdown" role="button">
+                        {{ nav.name }} <span class="caret"></span>
+                    </a>
+                    <ul class="dropdown-menu">
+                        {% for sub in nav.dropdown %}
+                        <li><a href="{{ sub.href }}">{{ sub.name }}</a></li>
+                        {% endfor %}
+                    </ul>
+                </li>
+                {% else %}
+                <li><a class='name' href="{{ nav.href }}">{{ nav.name }}</a></li>
+                {% endif %}
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
 </nav>

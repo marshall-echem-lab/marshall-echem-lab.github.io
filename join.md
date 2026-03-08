@@ -67,7 +67,7 @@ We welcome visiting students and scholars who can contribute to ongoing projects
 
 ### How to Apply
 
-**Email Aaron directly.
+- Email Aaron directly.
 
 <!--
 **For all positions:**

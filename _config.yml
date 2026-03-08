@@ -34,6 +34,13 @@ nav:
     href:           "/news"
   - name:           "resources"
     href:           "/resources"
+    dropdown:
+      - name:       "protocols"
+        href:       "/resources/protocols"
+      - name:       "software"
+        href:       "/resources/software"
+      - name:       "datasets"
+        href:       "/resources/datasets"
   - name:           "join us"
     href:           "/join"
 
