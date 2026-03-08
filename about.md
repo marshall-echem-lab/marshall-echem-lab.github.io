@@ -1,8 +1,7 @@
 ---
 title: About
-permalink: /about/
 ---
-
+<!--permalink: /about/-->
 ### About us
 We are a group of scientists and engineers applying electrochemistry to energy storage, clean fuel production, and sustainable materials processing.
 
