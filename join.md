@@ -3,13 +3,14 @@ title: Join Us
 permalink: /join/
 ---
 
-## Join the Kording Lab
+## Join the Marshall Lab
 
-**For the time being, the Kording lab is not hiring.**
-
-We are always looking for talented and passionate individuals who want to push the boundaries of neuroscience, artificial intelligence, and causality research. Our lab thrives on interdisciplinary collaboration and bold thinking.
+**For the time being, the Marshall lab is not recruiting new members.**
 
 <!--
+We are always looking for talented and passionate individuals who want to push the boundaries of neuroscience, artificial intelligence, and causality research. Our lab thrives on interdisciplinary collaboration and bold thinking.
+
+
 ### Current Openings
 
 We welcome applications from exceptional candidates at all levels. While specific funded positions vary, we are particularly interested in hearing from candidates with:
@@ -59,13 +60,16 @@ We occasionally have openings for:
 
 ### Visiting Scholars
 
-We welcome visiting students and scholars who can contribute to ongoing projects. Visits must be at least 6 months and are unpaid. Visitors should:
+We welcome visiting students and scholars who can contribute to ongoing projects. Visits must be at least 6 months. Visitors should:
 - Have their own funding
 - Propose a specific project aligned with lab interests
 - Bring complementary expertise that enriches the lab
 
 ### How to Apply
 
+**Email Aaron directly.
+
+<!--
 **For all positions:**
 
 1. **Email Konrad directly** at kording@upenn.edu with:
@@ -126,10 +130,8 @@ Our trainees have gone on to excellent positions:
 - **Industry:** Google DeepMind, Meta, Apple, and leading biotech companies
 - **Clinical:** Combining research with medical practice
 
+-->
+
 See our [Alumni list](/people#alumni) for details.
 
 ---
-
-*"The best time to join was yesterday. The second best time is now."* - Lab wisdom
-
-Ready to help us understand intelligence and build the future of neuroscience? We look forward to hearing from you!
