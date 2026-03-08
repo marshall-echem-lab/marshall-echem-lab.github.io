@@ -24,14 +24,10 @@ Our research group is full of great people.
 <h3>Postdoctoral Fellows</h3>
  {% elsif role == 'pi' %}
 <h3>Principal Investigator</h3>
- {% elsif role == 'gradstudent' %}
-<h3>Graduate Students</h3>
- {% elsif role == 'researchstaff' %}
-<h3>Research Staff</h3>
+ {% elsif role == 'postgrad' %}
+<h3>Postgraduate Students</h3>
  {% elsif role == 'visiting' %}
-<h3>Visiting Scholars</h3>
- {% elsif role == 'others' %}
-<h3>Honorary Members</h3>
+<h3>Visitors</h3>
  {% elsif role == 'alumni' %}
 <h3>Alumni</h3>
 {% endif %}
@@ -49,6 +45,7 @@ Our research group is full of great people.
 	{% endif %}
           <a class="name" href="{{ site.baseurl }}{{ profile.url }}">{{ profile.name }}</a>
           {% if profile.joined %}<br><small>Joined: {{ profile.joined }}</small>{% endif %}
+          {% if profile.project %}<br><small>Project: {{ profile.project }}</small>{% endif %}
 	  {% if profile.completed %}<br><small>Completed: {{ profile.completed }}</small>{% endif %}
           {% if profile.now %}<br><small>Now: {{ profile.now }}</small>{% endif %}
         </p>
