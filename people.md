@@ -7,6 +7,8 @@ permalink: /people/
 
 Our research group is full of great people.
 
+{{ site.people | map: 'name' | join: ', ' }}
+
 {% assign people_sorted = site.people | sort: 'joined' %}
 {% assign role_array = "pi|postdoc|gradstudent|researchstaff|visiting|others|alumni" | split: "|" %}
 
