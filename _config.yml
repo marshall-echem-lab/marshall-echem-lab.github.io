@@ -5,7 +5,7 @@
 # Basic
 name:               "Marshall Lab"
 title:              "Marshall Electrochemical Engineering Lab at the University of Canterbury"
-description:        "The Marshakk Lab is an electrochemical engineering research group at the University of Canterbury, Christchurch, New Zealand."
+description:        "The Marshall Lab is an electrochemical engineering research group at the University of Canterbury, Christchurch, New Zealand."
 
 
 # URL
@@ -34,8 +34,6 @@ nav:
     href:           "/join"
   - name:           "resources"
     href:           "/resources"
-  - name:           "C4R"
-    href:           "/c4r"
   - name:           "internal"
     href:           "/internal"
   # - name:           "blog"
