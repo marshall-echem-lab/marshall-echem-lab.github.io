@@ -34,7 +34,7 @@ Our research group is full of great people.
 </div>
 
 {% if role == 'alumni' %}
-{% assign display_people = site.people | where: 'position', 'alumni' | sort: 'completed' %}
+{% assign display_people = site.people | where: 'position', 'alumni' | sort: 'completed' | reverse %}
 {% else %}
 {% assign display_people = people_sorted %}
 {% endif %}
