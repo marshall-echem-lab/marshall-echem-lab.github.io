@@ -1,15 +1,15 @@
-# # # # # # # #
-#   K i k o   #
-# # # # # # # #
+# # # # # # # # # #
+#   Marshall Lab  #
+# # # # # # # # # #
 
 # Basic
-name:               "Kording Lab"
-title:              "Kording Lab at the University of Pennsylvania"
-description:        "The Kording Lab is a computational neuroscience and causality research group at the University of Pennsylvania."
+name:               "Marshall Lab"
+title:              "Marshall Electrochemical Engineering Lab at the University of Canterbury"
+description:        "The Marshakk Lab is an electrochemical engineering research group at the University of Canterbury, Christchurch, New Zealand."
 
 
 # URL
-url:                https://kordinglab.com
+url:                https://marshall-echem-lab.github.io
 baseurl:            
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
