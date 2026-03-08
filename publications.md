@@ -13,7 +13,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 _Example Title_<br>
 AT Marshall, J Treehorn<br>
-J Electrochem Soc:172(10), 104510, 2025 ([Article](https://arxiv.org/abs/2507.02771))
+J Electrochem Soc:172(10), 104510, 2025 ([Article](https://arxiv.org))
 
 ### 2024
 
