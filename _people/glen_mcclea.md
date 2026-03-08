@@ -1,9 +1,9 @@
 ---
 name: Glen McClea
-position: gradstudent
+position: postgrad
 joined: 2024
 completed:
-project: 
+project: Plasma sprayed catalytic electrodes
 now:
 avatar: Glen_McClea.jpg
 ---
