@@ -5,7 +5,7 @@ permalink: /people/
 
 ### Lab Members
 
-Our research group is full of awesome people.
+Our research group is full of great people.
 
 {% assign people_sorted = site.people | sort: 'joined' %}
 {% assign role_array = "pi|postdoc|gradstudent|researchstaff|visiting|others|alumni" | split: "|" %}
@@ -37,7 +37,6 @@ Our research group is full of awesome people.
 {% endif %}
 </div>
 
-{% if role != 'alumni' %}
 <div class="content list people">
   {% for profile in people_sorted %}
     {% if profile.position contains role %}
@@ -49,24 +48,12 @@ Our research group is full of awesome people.
             <a href="{{ site.baseurl }}{{ profile.url }}"><img class="profile-thumbnail" src="https://via.placeholder.com/200x200?text=No+Photo"></a>
           {% endif %}
           <a class="name" href="{{ site.baseurl }}{{ profile.url }}">{{ profile.name }}</a>
+          {% if profile.joined %}<br><small>Joined: {{ profile.joined }}</small>{% endif %}
+          {% if profile.now %}<br><small>Now: {{ profile.now }}</small>{% endif %}
         </p>
-      </div>    
+      </div>
     {% endif %}
   {% endfor %}
 </div>
 <hr>
-
-{% else %}
-
-<br>
-
-| Who are they | When were they here | Where they went |
-| :------------- |:-------------| :-----------|
-{% assign alumni_sorted = site.people | where: 'position', 'alumni' | sort: 'joined' | reverse %}
-{% for profile in alumni_sorted %}
-| {% if profile.website %}[{{ profile.name }}]({{ profile.website }}){% else %}[{{ profile.name }}]({{ site.baseurl }}{{ profile.url }}){% endif %} | {{ profile.role }} ({{ profile.joined }}{% if profile.left %}-{{ profile.left }}{% endif %}) | {{ profile.now }} |
-{% endfor %}
-
-
-{% endif %}
 {% endfor %}

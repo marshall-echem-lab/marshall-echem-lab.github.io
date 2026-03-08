@@ -1,8 +1,7 @@
 ---
-name: Yihao Li
+name: First Surname
 position: gradstudent
 avatar: yihao_li.jpg
-twitter: yihaoli_0302
 joined: 2024
 ---
 
