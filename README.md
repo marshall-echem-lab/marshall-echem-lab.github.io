@@ -1,7 +1,6 @@
 # Marshall Echem lab page
 
-This is repository for [Kording lab page](http://kordinglab.com/). We use Jekyll to run our Github page. We are welcome for other people to contribute to our site not just lab members. Feel free to fork and pull-request!
-
+This is repository for [Marshall Echem lab](http://marshall-echem-lab.github.io/). We use Jekyll to run our Github page.
 
 ## Editing the lab website
 
@@ -9,26 +8,25 @@ Below, we explain how to edit the lab webpage
 
 ### Add posts
 
-It's very easy to add post. All the posts are located in `_posts` folder. It arrangement is based on
-date. Each post can be written in markdown format. You just have to state headers before writing: `title`, `description` and `categories`. `description` will be shown when you share on social media like Facebook or twitter. See the following headers:
+It's very easy to add a post. All the posts are located in `_posts` folder. It arrangement is based on date. Each post can be written in markdown format. You just have to state headers before writing: `title`, `description` and `categories`. See the following headers:
 
 ``` markdown
 ---
-title: Summer School in Computational Sensory-Motor Neuroscience (CoSMo)
-description: all links to CoSMo summer school in computational neuroscience materials
-categories: scientists
+title: How do potentiostats work ?
+description: potentiostats are the major critical instruments in our lab 
+categories: [methods, hardware, teaching]
+date: YYYY-MM-DD
 ---
 ```
 
-We have 4 categories: `scientists`, `students`, `discussion`, `blog` you can choose and this will be rendered to different location.
+We have 4 categories: `methods`, `hardware`, `research`, `teaching` you can choose and this will be rendered to different location.
 
 ### How to add posts
 
-- **Directly edit on Github**, you can simply go to `_posts` and click `New file` then put some markdown file e.g. `2016-02-03-post-name.md` and start writing blog post. Github also allows you to preview it so it's nice for people who don't want to clone the repo. 
+- **Write and save in the website onedrive**, under the `_posts` folder. You need to use markdown and save with the following format `2016-02-03-post-name.md`. These get committed and pushed to the GitHub repo. 
 
-- **Clone the repository**, kind of the same as directly add post on Github. You just have to clone the repository. Then add new post file, commit and push to the repo.
 
-The changes will take approximately half a minute to render. You can see the new posts or changes on [kordinglab.com](http://kordinglab.github.io/)!
+Once pushed to the repo, it takes approximately a minute for the GitHub page to be generated.
 
 ### Add yourself
 
@@ -36,20 +34,22 @@ You can add yourself to the page in `_people` folder just create file name `<fir
 
 ``` markdown
 ---
-name: Eva Dyer
+name: Firstname Surname
 position: postdoc
-avatar: eva.jpg
-twitter:
+avatar: yourphoto.jpg <!-- `stored in images/people` folder -->
 joined: 2014
+project: <!-- short title of your work -->
+completed: <!-- if alumni, when did you leave ? -->
+now: <!-- if alumni, where are you now ?-->
 ---
 ```
 
 If you don't have information, just leave it blank. The avatar will bring photo from `images/people` folder and display it on people page. 
-For lab position, you can choose position from 4 classes including `postdoc`, `gradstudent`, `visiting`, `others` (so called Honorary members). Position will put you into section that you choose.
+For lab position, you can choose position from a few classes including `postdoc`, `postgrad`, `visitor`, `alumni`. Position will put you into section that you choose.
 
 ### Add new publications
 
-All publications from the lab are located in `publications.md`. Please upload new publication on your own!
+All publications from the lab are uploaded in bibtex format. We then have a script which generates a list in markdown `publications.md`. A *.docx file is also generated for Aaron's use.
 
 ### Add news
 
@@ -81,7 +81,6 @@ All news presented in the front page by editing `_data/news.yml`. There are some
    name: Your Full Name
    position: [choose one: gradstudent/postdoc/researchstaff/visiting/alumni]
    avatar: yourphoto.jpg
-   twitter: yourtwitterhandle
    joined: 2024
    ---
    ```
@@ -122,44 +121,9 @@ When leaving the lab:
 
 ### Getting Help
 
-- If you're not familiar with Git/GitHub, ask any lab member for help
+- If you're not familiar with Git/GitHub, ask or help
 - You can also edit directly on GitHub.com through the web interface
-- For technical issues, contact the lab member maintaining the website
-- Always test locally with `jekyll serve` before pushing if you're making significant changes
 
-## Community for Rigor (C4R)
 
-The [Community for Rigor (C4R)](https://c4r.io) is an initiative founded by Konrad Kording that operates closely with the lab. C4R is dedicated to improving scientific rigor through education and community engagement.
 
-### What is C4R?
 
-C4R is a user-friendly, open-source educational platform that addresses critical issues in research methodology:
-- **Biases in research** - Understanding and mitigating various forms of bias
-- **Logical fallacies around causality** - Improving causal reasoning
-- **Hypothesis development** - Crafting better research questions
-- **Literature search design** - Systematic approaches to reviewing existing work
-- **Identifying experimental variables** - Proper variable selection and control
-- **Reducing confounding variables** - Improving experimental design
-
-### Lab Involvement with C4R
-
-- Many lab members contribute to C4R content and development
-- C4R principles are integrated into lab research practices
-- Lab meetings often discuss C4R topics and materials
-- Students are encouraged to complete C4R modules as part of their training
-
-### How to Get Involved
-
-- Visit [c4r.io](https://c4r.io) to explore the educational modules
-- Consider contributing content if you have expertise in research methods
-- Participate in C4R community discussions and events
-- Apply C4R principles in your own research projects
-- Share C4R resources with colleagues who might benefit
-
-### Resources
-
-- Main website: [c4r.io](https://c4r.io)
-- GitHub repository: Check the C4R organization on GitHub for open-source materials
-- Contact: Reach out to Konrad or lab members involved in C4R for more information
-
-C4R represents the lab's commitment to not just doing good science, but actively working to improve how science is done across the research community.
