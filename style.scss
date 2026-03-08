@@ -581,16 +581,42 @@ tbody tr:nth-child(odd) th {
   font-size: 80%;
 }
 
+// expand navbar height to fit larger logo and center links vertically
+.navbar-default {
+  min-height: 70px;
+}
+
+.navbar-default .navbar-nav > li > a {
+  line-height: 40px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.navbar-default .navbar-brand {
+  height: 70px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  display: flex;
+  align-items: center;
+}
+
 // fix menu bar spacing for mobile
 @media(max-width: 40em){
   .navbar-nav>li>a {
     padding: 0.75em 0 0.5em 2.5em;
     font-size: 15px;
+    line-height: normal;
   }
 
   // fix menu scroll along x axis
   .navbar-nav {
     margin-right: 15px;
+  }
+
+  // ensure toggle button is vertically centered in taller navbar
+  .navbar-toggle {
+    margin-top: 18px;
+    margin-bottom: 18px;
   }
 }
 
