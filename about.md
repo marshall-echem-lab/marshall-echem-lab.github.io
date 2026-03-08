@@ -23,7 +23,7 @@ We characterise these materials using electrochemical techniques including cycli
 
 Electrochemical conversion of CO₂ into useful fuels and chemicals — such as methane, methanol, and formic acid — is an increasingly promising route to closing the carbon cycle. We have studied mass transport effects on this reaction and developed methods to tune its selectivity. Current work focuses on gold-based electrocatalysts for CO₂-to-syngas conversion (CO + H₂), supported by an in-house electrochemical flow cell.
 
-![CO2 reduction cycle](images/lab/CO2-cycle.png)
+![CO2 reduction cycle](/images/lab/CO2-cycle.png)
 
 ---
 
