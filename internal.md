@@ -10,9 +10,8 @@ This page contains important information for current lab members about managing 
 ### When to Add/Remove Yourself from the Webpage
 
 **When to ADD yourself:**
-- When you officially join the Kording Lab as a graduate student, postdoc, research staff, or visiting scholar
+- When you officially join the Lab as a postgraduate student, postdoc, research staff, or visiting scholar
 - Ideally within your first week of joining the lab
-- After confirming with Konrad or the lab manager that you are officially part of the lab
 
 **When to REMOVE/UPDATE yourself:**
 - When you graduate or complete your position in the lab
@@ -31,8 +30,9 @@ This page contains important information for current lab members about managing 
 name: Your Full Name
 position: [choose one: gradstudent/postdoc/researchstaff/visiting/alumni]
 avatar: yourphoto.jpg
-twitter: yourtwitterhandle
 joined: 2024
+completed: [add year you finished]
+now: [where are you]
 ---
 ```
 
@@ -49,12 +49,7 @@ joined: 2024
 - Keep it professional but feel free to add personality
 
 #### Step 5: Submit Your Changes
-- **If comfortable with Git**: 
-  - Commit and push your changes
-  - Create a pull request
-- **If not familiar with Git**:
-  - Email your files to the lab manager
-  - Or ask any lab member for help with the Git process
+
 
 ### How to Update Your Profile
 
@@ -80,19 +75,13 @@ When leaving the lab:
 
 #### Office Attendance Expectations
 
-**Lab members are expected to be in the office 4 days a week unless discussed otherwise with Konrad.**
+**Lab members are expected to be in the lab most days of week. Aaron works hard and expects the team to also work hard... but if you have been smashing science for days/weeks and need a break make sure you take time to relax**
 
 This policy promotes:
 - Collaboration and spontaneous discussions
 - Stronger lab community and culture
 - Better mentorship opportunities
 - Quick problem-solving and idea exchange
-
-Exceptions can be discussed for:
-- Remote collaborations
-- Data collection off-site
-- Conference attendance
-- Personal circumstances (discuss with Konrad)
 
 #### Conference Presentation Policy
 
@@ -112,81 +101,29 @@ Guidelines:
 
 ### Adding Publications
 
-When you publish a paper:
+When you publish a paper: Details to follow
 
-1. **Edit** `publications.md`
-2. **Find the correct year** section
-3. **Add your publication** in this format:
-   ```markdown
-   _Paper Title_<br>
-   Author1, Author2, KP Kording, etc<br>
-   Journal Name, Year ([Article](link-if-available))
-   ```
-4. **Maintain chronological order** within the year
-5. **Include all lab members** who are authors
 
 ### Adding News Items
 
-For lab news and announcements:
-
-1. **Edit** `_data/news.yml`
-2. **Add a new entry** at the top:
-   ```yaml
-   - date: YYYY-MM-DD
-     details: "Your news item here. Can include <a href='link'>links</a>"
-   ```
-3. **Note**: Some characters like `:` need special handling - use quotes around your text
+For lab news and announcements: Details to follow
 
 ### Technical Help
 
-#### Using Git/GitHub
-
-**Basic Git workflow:**
-```bash
-git pull                     # Get latest changes
-git add .                    # Stage your changes
-git commit -m "message"      # Commit with descriptive message
-git push                     # Push to GitHub
-```
-
-**Editing directly on GitHub:**
-1. Navigate to the file on GitHub.com
-2. Click the pencil icon to edit
-3. Make your changes
-4. Commit directly or create a pull request
-
-#### Testing Changes Locally
-
-Before pushing changes:
-```bash
-jekyll serve
-```
-Then visit `localhost:4000` to preview
 
 ### Getting Help
 
-- **Administrative questions**: Email Thomas McDonald <taomcd@seas.upenn.edu> (Konrad is clueless about anything administrative)
-- **Git/GitHub issues**: Ask any lab member familiar with Git
-- **Website technical issues**: Contact the designated website maintainer
-- **Content questions**: Check with Konrad or senior lab members
+- **Administrative questions**: Ask Aaron
+- **Content questions**: Check with Aaron
 - **Emergency updates**: Contact multiple lab members to ensure quick response
 
 ### Best Practices
 
 - **Keep profiles updated** - Outdated information reflects poorly on everyone
 - **Use professional photos** - This is a public-facing website
-- **Write clear commit messages** - Help others understand what you changed
-- **Test before pushing** - Use `jekyll serve` for significant changes
 - **Ask for help** - Better to ask than to break something
 - **Regular updates** - Check your profile every semester
 
-### Important Links
-
-- **Lab GitHub**: [github.com/KordingLab](https://github.com/KordingLab)
-- **Website Repository**: [github.com/KordingLab/KordingLab.github.io](https://github.com/KordingLab/KordingLab.github.io)
-- **Live Website**: [kordinglab.com](http://kordinglab.com)
-- **C4R Platform**: [c4r.io](https://c4r.io)
-
 ---
 
-*This page is for internal use by Kording Lab members. If you're not a lab member but interested in joining, please see the [About](/about) page for more information.*
+*This page is for internal use by Marshall Lab members. If you're not a lab member but interested in joining, please see the [About](/about) page for more information.*
