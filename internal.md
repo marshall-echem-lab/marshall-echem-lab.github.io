@@ -18,6 +18,7 @@ This page contains important information for current lab members about managing 
 - When transitioning to alumni status (you don't delete your profile, just change your position to 'alumni')
 - If you're a visiting scholar, when your visit period ends
 
+
 ### How to Add Yourself to the People Page
 
 #### Step 1: Create Your Profile File
