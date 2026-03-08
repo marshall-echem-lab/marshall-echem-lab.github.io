@@ -14,7 +14,7 @@ Our group develops electrocatalytic materials for redox batteries, fuel cells, a
 
 We characterise these materials using electrochemical techniques including cyclic voltammetry, electrochemical impedance spectroscopy (EIS), and steady-state polarisation curves. Structural analysis is carried out by X-ray diffraction (XRD), X-ray photoelectron spectroscopy (XPS), electron microscopy, gas adsorption, and X-ray absorption spectroscopy (XAS).
 
-![High surface area cobalt oxide film](images/lab/CobaltOxide.jpg)
+![High surface area cobalt oxide film](/images/lab/CobaltOxide.jpg)
 *High surface area cobalt oxide film*
 
 ---
