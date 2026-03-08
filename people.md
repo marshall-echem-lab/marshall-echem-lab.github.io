@@ -33,27 +33,47 @@ Our research group is full of great people.
 {% endif %}
 </div>
 
+{% if role == 'alumni' %}
+{% assign display_people = site.people | where: 'position', 'alumni' | sort: 'completed' %}
+{% else %}
+{% assign display_people = people_sorted %}
+{% endif %}
+
 <div class="content list people">
-  {% for profile in people_sorted %}
+  {% for profile in display_people %}
     {% if profile.position contains role %}
-      <div class="list-item-people">
-        <p class="list-post-title">
+      <div class="list-item-people{% if role == 'alumni' %} list-item-alumni{% endif %}">
+
+        {% if role == 'alumni' %}
           {% if profile.avatar %}
-            <a href="{{ site.baseurl }}{{ profile.url }}"><img class="profile-thumbnail{% if role == 'alumni' %} profile-thumbnail-alumni{% endif %}" src="{{site.baseurl}}/images/people/{{profile.avatar}}"></a>
-	  {% else %}
-  		<a href="{{ site.baseurl }}{{ profile.url }}"><img class="profile-thumbnail{% if role == 'alumni' %} profile-thumbnail-alumni{% endif %}" src="{{site.baseurl}}/images/people/default_avatar.svg"></a>
-	{% endif %}
-          <a class="name" href="{{ site.baseurl }}{{ profile.url }}">{{ profile.name }}</a>
-          {% if profile.joined %}<br><small>Joined: {{ profile.joined }}</small>{% endif %}
-          {% if profile.project %}<br><small class="project-title">{{ profile.project }}</small>{% endif %}
-	  {% if profile.completed %}<br><small>Completed: {{ profile.completed }}</small>{% endif %}
-          {% if profile.now %}<br><small>Now: {{ profile.now }}</small>{% endif %}
-        </p>
+            <div class="alumni-photo">
+              <a href="{{ site.baseurl }}{{ profile.url }}"><img class="profile-thumbnail profile-thumbnail-alumni" src="{{site.baseurl}}/images/people/{{profile.avatar}}"></a>
+            </div>
+          {% endif %}
+          <div class="alumni-info">
+            <a class="name" href="{{ site.baseurl }}{{ profile.url }}">{{ profile.name }}</a>
+            {% if profile.project %}<span class="project-title">{{ profile.project }}</span>{% endif %}
+            {% if profile.completed %}<span class="alumni-completed">Completed: {{ profile.completed }}</span>{% endif %}
+            {% if profile.now %}<span class="alumni-now">Now: {{ profile.now }}</span>{% endif %}
+          </div>
+
+        {% else %}
+          <p class="list-post-title">
+            {% if profile.avatar %}
+              <a href="{{ site.baseurl }}{{ profile.url }}"><img class="profile-thumbnail" src="{{site.baseurl}}/images/people/{{profile.avatar}}"></a>
+            {% else %}
+              <a href="{{ site.baseurl }}{{ profile.url }}"><img class="profile-thumbnail" src="{{site.baseurl}}/images/people/default_avatar.svg"></a>
+            {% endif %}
+            <a class="name" href="{{ site.baseurl }}{{ profile.url }}">{{ profile.name }}</a>
+            {% if profile.joined %}<br><small>Joined: {{ profile.joined }}</small>{% endif %}
+            {% if profile.project %}<br><small class="project-title">{{ profile.project }}</small>{% endif %}
+            {% if profile.now %}<br><small>Now: {{ profile.now }}</small>{% endif %}
+          </p>
+        {% endif %}
+
       </div>
     {% endif %}
   {% endfor %}
 </div>
 <hr>
 {% endfor %}
-
-

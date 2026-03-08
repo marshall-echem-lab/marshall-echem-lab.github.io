@@ -495,6 +495,50 @@ tbody tr:nth-child(odd) th {
   padding-right: 1em;
 }
 
+// Alumni cards: fixed-width column, photo (if any) above info block
+.list-item-alumni {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  vertical-align: top;
+  width: 150px;
+  padding: 0 0.75em 1em;
+}
+
+.alumni-photo {
+  margin-bottom: 0.4em;
+}
+
+.alumni-info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  width: 100%;
+
+  .name {
+    font-size: 16px;
+    margin-top: 0.2em;
+  }
+
+  .project-title {
+    display: block;
+    max-width: 100%;
+    font-size: 0.75rem;
+    color: #555;
+    line-height: 1.3;
+    margin: 0.2em auto 0;
+  }
+}
+
+.alumni-completed,
+.alumni-now {
+  display: block;
+  font-size: 0.75rem;
+  color: #838383;
+  margin-top: 0.3em;
+}
+
 .list-post-title img {
   margin-bottom: 0.75em;
   margin-top: 1.25em;
