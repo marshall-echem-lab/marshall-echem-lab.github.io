@@ -35,7 +35,7 @@ Electrochemical conversion of CO₂ into useful fuels and chemicals — such as 
 Water electrolysis splits water into hydrogen and oxygen using electricity. When powered by renewables, this produces "green" hydrogen with no direct carbon emissions. We develop new electrocatalysts and engineer catalytic layers and membrane electrode assemblies to improve performance, reduce cost, and increase the durability of water electrolysers. This includes a recently funded project on anion exchange membrane (AEM) water electrolysis.
 
 <figure style="text-align: center;">
-  <img src="/images/lab/Electrolyser.png" alt="Electrolyser schematic" style="width: 50%; display: block; margin: 0 auto;">
+  <img src="/images/lab/Electrolyser.png" alt="Electrolyser schematic" style="width: 60%; display: block; margin: 0 auto;">
 </figure>
 
 ---
@@ -57,5 +57,5 @@ Metal production is the largest single industrial source of man-made greenhouse 
 Alongside this academic programme, Prof. Marshall co-founded [Zethos](https://zethos.tech) (formerly Zincovery), a company commercialising a waste treatment and critical mineral recovery technology developed in our laboratory. Zethos uses selective reduction and electrochemical refining to extract critical minerals — including zinc, copper, nickel, and manganese — from ores and industrial waste streams.
 
 <figure style="text-align: center;">
-  <a href="https://zethos.tech"><img src="images/lab/Zethos_logo_tagline.webp" alt="Zethos — Critical Mineral Innovation" style="width: 25%; display: block; margin: 0 auto;"></a>
+  <a href="https://zethos.tech"><img src="images/lab/Zethos_logo_tagline.webp" alt="Zethos — Critical Mineral Innovation" style="width: 40%; display: block; margin: 0 auto;"></a>
 </figure>
