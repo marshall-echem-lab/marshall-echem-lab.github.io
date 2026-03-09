@@ -556,6 +556,14 @@ tbody tr:nth-child(odd) th {
 .list-detail {
   font-size: 15px;
   color: #838383;
+
+  p:last-child {
+    margin-bottom: 0.25rem;
+  }
+}
+
+.content.list > h3 {
+  margin-bottom: 1.5rem;
 }
 
 .list-item a:hover, .list-post-title:hover .name, .list-post-title .name:hover {
