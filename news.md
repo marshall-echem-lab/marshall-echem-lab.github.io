@@ -1,13 +1,13 @@
 ---
-title: blog
-permalink: /blog/
+title: news
+permalink: /news/
 ---
 
-### **Blog posts from the lab**
+### **News from the lab**
 
 <div class="content list">
-  {% for post in site.posts %}
-    {% if post.categories contains 'newblog' %}
+  {% assign news_posts = site.posts | where_exp: "post", "post.categories contains 'news'" | sort: "date" | reverse %}
+  {% for post in news_posts %}
     <div class="list-item">
       <p class="list-post-title">
         <a href="{{ post.url | prepend: site.baseurl }}">
@@ -22,8 +22,8 @@ permalink: /blog/
                     <p class="list-post-title">
                       posted on {{ post.date | date: "%B %-d, %Y" }}
                     </p>
-                    <p class="list-detail" >
-                      {{ post.content | strip_html | truncatewords:30 }}
+                    <p class="list-detail">
+                      {{ post.content | strip_html | truncatewords: 30 }}
                     </p>
                 </div>
             </div>
@@ -31,6 +31,5 @@ permalink: /blog/
         </a>
       </p>
     </div>
-    {% endif %}
   {% endfor %}
 </div>
