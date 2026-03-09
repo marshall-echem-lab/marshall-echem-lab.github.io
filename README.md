@@ -4,7 +4,7 @@ This is repository for [Marshall Echem lab](http://marshall-echem-lab.github.io/
 
 ## Editing the lab website
 
-Below, we explain how to edit the lab webpage
+Below, we explain how to edit the lab webpage. Once files are pushed to the repo, it takes approximately a minute for the GitHub page to be updated.
 
 ### Add posts
 
@@ -25,8 +25,21 @@ We have 4 categories: `methods`, `hardware`, `research`, `teaching` you can choo
 
 - **Write and save in the website onedrive**, under the `_posts` folder. You need to use markdown and save with the following format `2016-02-03-post-name.md`. These get committed and pushed to the GitHub repo. 
 
+### How to add news
 
-Once pushed to the repo, it takes approximately a minute for the GitHub page to be generated.
+Create a markdown file with the following format:
+
+``` markdown
+---
+title: Hotspot paper
+categories: [news]
+date: 2025-10-24
+---
+
+Please to announce a super interesting collaborative <a href="https://dx.doi.org/10.1149/1945-7111/ae0fe9" target="_blank">paper</a> on hotspots in PEM water electrolysers.  
+```
+here the categories: `news` identifies the post as a news post. The date: orders the news on the site.
+
 
 ### Add yourself
 
