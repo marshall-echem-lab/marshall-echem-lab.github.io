@@ -8,18 +8,17 @@ Below, we explain how to edit the lab webpage. Once files are pushed to the repo
 
 ### Add posts
 
-It's very easy to add a post. All the posts are located in `_posts` folder. It arrangement is based on date. Each post can be written in markdown format. You just have to state headers before writing: `title`, `description` and `categories`. See the following headers:
+It's very easy to add a post. All the posts are located in `_posts` folder. These area arranged based on date. Each post can be written in markdown format. You just have to state headers before writing: `title`, `description` and `categories`. See the following headers:
 
 ``` markdown
 ---
 title: How do potentiostats work ?
 description: potentiostats are the major critical instruments in our lab 
 categories: [methods, hardware, teaching]
-date: YYYY-MM-DD
 ---
 ```
 
-We have 4 categories: `methods`, `hardware`, `research`, `teaching` you can choose and this will be rendered to different location.
+We have categories: `methods`, `hardware`, `research`, `teaching`, `posting` you can choose and this will be rendered to different location.
 
 ### How to add posts
 
