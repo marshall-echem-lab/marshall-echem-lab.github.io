@@ -8,6 +8,9 @@ title:              "Marshall Electrochemical Engineering Lab at the University 
 description:        "The Marshall Lab is an electrochemical engineering research group at the University of Canterbury, Christchurch, New Zealand."
 
 
+# Timezone
+timezone:           Pacific/Auckland
+
 # URL
 url:                https://marshall-echem-lab.github.io
 baseurl:            
