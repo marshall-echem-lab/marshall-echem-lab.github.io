@@ -1,0 +1,6 @@
+---
+title: Laura's viewpoint on standardised testing protocols for AEM water electrolysers
+categories: [news]
+---
+
+Congratulations to Laura Titheridge on her <a href="https://doi.org/10.1021/acsenergylett.4c00239" target="_blank">viewpoint paper</a> in ACS Energy Letters making the case for a standardised testing protocol for anion exchange membrane (AEM) water electrolysers. Without consistent protocols, comparing performance across research groups is difficult and progress in the field is hard to track. The paper proposes practical recommendations for operating conditions, reporting, and benchmarking. Well done Laura!

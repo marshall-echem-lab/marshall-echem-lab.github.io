@@ -1,0 +1,6 @@
+---
+title: Review paper on electrochemical characterisation of macroporous electrodes
+categories: [news]
+---
+
+We have a new <a href="https://doi.org/10.1016/j.coelec.2022.101027" target="_blank">review paper</a> out in Current Opinion in Electrochemistry, co-authored with Tim Tichter. The paper surveys recent advances — and highlights some hidden pitfalls — in using cyclic voltammetry and electrochemical impedance spectroscopy to characterise macroporous electrodes such as carbon felts and foams. Determining intrinsic kinetics in these materials is notoriously tricky, and the review aims to give practitioners a clearer map of the challenges involved.

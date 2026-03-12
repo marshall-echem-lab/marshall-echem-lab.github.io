@@ -1,0 +1,6 @@
+---
+title: Rejuvenating nickel OER anodes — new paper from Sophie
+categories: [news]
+---
+
+Sophie Mellsop has another <a href="https://doi.org/10.1016/j.electacta.2015.08.061" target="_blank">paper</a> out in Electrochimica Acta, this time showing that nickel oxy-hydroxide anodes age and lose oxygen evolution activity over time, but that performance can be recovered simply by briefly stepping the potential to a lower value. A straightforward and practical approach to maintaining anode performance in alkaline electrolysis.

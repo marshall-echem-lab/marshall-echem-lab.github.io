@@ -1,0 +1,6 @@
+---
+title: New Angewandte Chemie paper on carbon electrocatalysts for selective H2O2 electrosynthesis
+categories: [news]
+---
+
+We have a new <a href="https://doi.org/10.1002/anie.202315182" target="_blank">paper</a> in Angewandte Chemie on lattice-distorted and H-passivated pure carbon electrocatalysts for efficient and stable two-electron oxygen reduction to hydrogen peroxide. The study links specific structural features of the carbon to both high selectivity and long-term stability in H2O2 electrosynthesis, contributing to the growing interest in decentralised hydrogen peroxide production. An exciting international collaboration.

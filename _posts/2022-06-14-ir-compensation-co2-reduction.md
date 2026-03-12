@@ -1,0 +1,6 @@
+---
+title: Alex and Johan's paper on iR compensation in CO2 reduction studies
+categories: [news]
+---
+
+Congratulations to Alex Heenan and Johan Hamonnet on their <a href="https://doi.org/10.1021/acsenergylett.2c00800" target="_blank">viewpoint paper</a> in ACS Energy Letters. The paper makes the case that sloppy iR compensation and inconsistent reporting of electrode potentials are causing serious reproducibility issues across the CO2 reduction literature. It's a timely and important contribution — highly recommended reading for anyone doing CO2 electroreduction measurements. Well done both!

@@ -1,0 +1,6 @@
+---
+title: Perspective on electrochemical engineering challenges in green hydrogen production
+categories: [news]
+---
+
+We have a new <a href="https://doi.org/10.1149/1945-7111/ac9ee8" target="_blank">perspective</a> in the Journal of The Electrochemical Society examining the challenges facing green hydrogen production when coupled to renewable and variable electricity sources. The paper analyses different integration strategies for PV and wind-powered electrolysis, identifying key electrochemical engineering bottlenecks including performance losses under intermittent operation. A collaboration with John Kennedy, James Metson, and Malcolm Taylor.

@@ -1,0 +1,6 @@
+---
+title: Sophie's paper on electrode orientation and carbon felt heterogeneity in flow batteries
+categories: [news]
+---
+
+Congratulations to Sophie McArdle on her <a href="https://doi.org/10.1016/j.jpowsour.2023.232755" target="_blank">paper</a> in the Journal of Power Sources. Building on her earlier single-fibre electrode work, Sophie has shown that the orientation of carbon felt electrodes in a flow battery cell — and the inherent heterogeneity of the felt itself — can have a measurable effect on battery performance. The results have practical implications for how carbon felt electrodes are assembled and tested in redox flow battery research. Great work Sophie!

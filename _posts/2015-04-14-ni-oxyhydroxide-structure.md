@@ -1,0 +1,6 @@
+---
+title: Sophie's paper on nickel oxy-hydroxide films for water electrolysis
+categories: [news]
+---
+
+Congratulations to Sophie Mellsop on her new <a href="https://doi.org/10.1016/j.electacta.2015.04.020" target="_blank">paper</a> in Electrochimica Acta. Sophie, along with co-authors Alister Gardiner and Bernt Johannessen, used in situ X-ray absorption spectroscopy to track the structure and composition of oxy-hydroxide films on nickel anodes both below and above the oxygen evolution potential in alkaline electrolytes. The work reveals how the Ni(OH)2/NiOOH films transform under electrochemical conditions — important fundamental knowledge for anyone developing alkaline water electrolysis anodes.

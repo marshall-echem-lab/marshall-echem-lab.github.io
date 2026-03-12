@@ -1,0 +1,6 @@
+---
+title: Shailendra's paper on XAS characterisation of phosphine-capped gold clusters
+categories: [news]
+---
+
+Congratulations to Shailendra Sharma on his <a href="https://doi.org/10.3390/inorganics11050191" target="_blank">paper</a> in Inorganics using X-ray absorption spectroscopy to characterise a series of phosphine-capped gold clusters. The study probes the electronic and geometric structure of Au<sub>6</sub>, Au<sub>9</sub>, Au<sub>13</sub>, and Au<sub>101</sub> clusters, providing fundamental insight into how cluster size and ligand environment influence their electronic properties. Great work in collaboration with Bernt Johannessen at the Australian Synchrotron and Vladimir Golovko.

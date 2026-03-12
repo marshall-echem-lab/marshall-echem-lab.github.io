@@ -1,0 +1,6 @@
+---
+title: Tobias's review paper on through-mask electrochemical micromachining
+categories: [news]
+---
+
+Tobias Baldhoff has a comprehensive review <a href="https://doi.org/10.1149/2.1341814jes" target="_blank">paper</a> out in the Journal of The Electrochemical Society covering through-mask electrochemical micromachining (TMEMM) — a microfabrication technique that combines anodic metal shaping and surface finishing in a single electrochemical step. The review covers fundamentals, process parameters, modelling approaches, and applications in manufacturing precision microsystem components such as microlenses, microchannels, microprobes, and microvalves. Well worth a read for anyone working in electrochemical manufacturing. Great work Tobias!
