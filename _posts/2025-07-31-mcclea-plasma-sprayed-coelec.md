@@ -3,4 +3,4 @@ title: Glen's review on plasma-sprayed electrodes in Current Opinion in Electroc
 categories: [news]
 ---
 
-Congratulations to Glen McClea on his <a href="https://doi.org/10.1016/j.coelec.2025.101732" target="_blank">review</a> in Current Opinion in Electrochemistry on plasma-sprayed electrode coatings for electrochemical applications. The review covers the state of the art in thermal spray deposition of electrocatalytic materials, examining how plasma spray processing conditions influence coating microstructure and electrochemical performance. A collaborative effort with Laura Titheridge and David Matthews. Well done Glen!
+Congratulations to Glen McClea on his <a href="https://doi.org/10.1016/j.coelec.2025.101732" target="_blank">review</a> in Current Opinion in Electrochemistry on plasma-sprayed electrode coatings for electrochemical applications. The review covers the state of the art in thermal spray deposition of electrocatalytic materials, examining how plasma spray processing conditions influence coating microstructure and electrochemical performance. A collaborative effort with Laura Titheridge and Steve Matthews. Well done Glen!
