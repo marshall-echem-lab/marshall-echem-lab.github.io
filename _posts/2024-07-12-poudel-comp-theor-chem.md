@@ -1,5 +1,5 @@
 ---
-title: Pitambar's computational paper on decomposition temperatures of heterocycles
+title: Pitambar's computational paper on decomposition of heterocycles
 categories: [news]
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: New Next Energy paper on gas diffusion layers in PEM electrolysers
+title: New paper on gas diffusion layers in PEM electrolysers
 categories: [news]
 ---
 

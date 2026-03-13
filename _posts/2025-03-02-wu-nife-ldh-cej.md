@@ -1,6 +1,6 @@
 ---
-title: New Chemical Engineering Journal paper on NiFe layered double hydroxide electrocatalysts
+title: New Chemical Engineering Journal paper on NiFe electrocatalysts
 categories: [news]
 ---
 
-We have a new <a href="https://doi.org/10.1016/j.cej.2025.160753" target="_blank">paper</a> in the Chemical Engineering Journal on NiFe layered double hydroxide (LDH) electrocatalysts for the oxygen evolution reaction, in collaboration with Geoffrey Waterhouse's group and colleagues including Benjamin Cowie. An exciting study on tuning the activity and stability of these earth-abundant OER catalysts.
+We have a new <a href="https://doi.org/10.1016/j.cej.2025.160753" target="_blank">paper</a> in the Chemical Engineering Journal on NiFe layered double hydroxide (LDH) electrocatalysts for the oxygen evolution reaction, in collaboration with Geoffrey Waterhouse's group and colleagues including Bruce Cowie from the Australian Synchrotron. An exciting study on tuning the activity and stability of these earth-abundant OER catalysts.

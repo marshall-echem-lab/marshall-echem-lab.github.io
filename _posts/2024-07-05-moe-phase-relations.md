@@ -1,6 +1,0 @@
----
-title: New paper on thermodynamic phase relations for selective metal reduction by molten oxide electrolysis
-categories: [news]
----
-
-Kathryn Ford has a new <a href="https://doi.org/10.1002/celc.202400194" target="_blank">paper</a> in ChemElectroChem examining phase relations in molten oxide systems relevant to molten oxide electrolysis. The work maps electrochemical operating windows for the selective reduction of specific metals from mixed oxide melts — an important step towards using MOE for technology-critical metal production. Great to continue collaborating with Matt Watson and Catherine Bishop on this programme.

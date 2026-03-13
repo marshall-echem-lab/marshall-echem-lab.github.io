@@ -1,5 +1,5 @@
 ---
-title: Laura's viewpoint on standardised testing protocols for AEM water electrolysers
+title: Viewpoint on standardised testing protocols for AEM water electrolysers
 categories: [news]
 ---
 

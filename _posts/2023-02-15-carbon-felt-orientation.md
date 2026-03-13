@@ -1,5 +1,5 @@
 ---
-title: Sophie's paper on electrode orientation and carbon felt heterogeneity in flow batteries
+title: Electrode orientation and carbon felt heterogeneity matters!
 categories: [news]
 ---
 

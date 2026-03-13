@@ -1,5 +1,5 @@
 ---
-title: Alex's paper on tuning CO2 reduction selectivity on copper gas diffusion electrodes
+title: Alchemy ? making copper gas diffusion electrodes behave like gold
 categories: [news]
 ---
 

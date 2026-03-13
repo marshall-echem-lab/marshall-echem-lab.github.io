@@ -1,5 +1,5 @@
 ---
-title: Megan's paper on CO2-assisted vanadium leaching in ACS Sustainable Chemistry & Engineering
+title: Sodastream vanadium leaching in ACS Sustainable Chemistry & Engineering
 categories: [news]
 ---
 
