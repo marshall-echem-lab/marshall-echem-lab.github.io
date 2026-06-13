@@ -1,0 +1,12 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Marshall Electrochemical Engineering Lab"
+  site-url: https://marshall-echem-lab.github.io/
+
+format:
+  html:
+    theme: cosmo
+    toc: false
