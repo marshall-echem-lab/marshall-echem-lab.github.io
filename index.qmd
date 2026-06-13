@@ -1,0 +1,34 @@
+---
+title: "Marshall Electrochemical Engineering Lab"
+subtitle: "University of Canterbury · Chemical and Process Engineering"
+toc: false
+---
+
+We develop electrochemical technologies for sustainable energy and materials processing, including green steel, hydrogen production, and electrochemical reactor design.
+
+## Our Work
+
+::: {.grid}
+
+::: {.g-col-4}
+### 🔬 Research
+Current projects in electrochemical engineering and sustainable processing.
+
+[View research →](https://marshall-echem-lab.github.io/research/)
+:::
+
+::: {.g-col-4}
+### 📚 Teaching
+Course materials for ENCH291 and electrochemical engineering.
+
+[View teaching →](https://marshall-echem-lab.github.io/teaching/)
+:::
+
+::: {.g-col-4}
+### 👥 Group
+Meet the people in the lab.
+
+[Meet the group →](https://marshall-echem-lab.github.io/research/members.html)
+:::
+
+:::
