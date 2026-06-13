@@ -12,14 +12,14 @@ We develop electrochemical technologies for sustainable energy and materials pro
 
 ::: {.g-col-4}
 ### 🔬 Research
-Current projects in electrochemical engineering and sustainable processing.
+Out research group website - We work on electrochemical engineering - mostly water electrolysis, fuel cells, CO2 reduction, flow batteries and sustainable metal production.
 
 [View research →](https://marshall-echem-lab.github.io/research/)
 :::
 
 ::: {.g-col-4}
 ### 📚 Teaching
-Course materials for ENCH291 and electrochemical engineering.
+Course materials for thermodynamics and electrochemical engineering.
 
 [View teaching →](https://marshall-echem-lab.github.io/teaching/)
 :::
